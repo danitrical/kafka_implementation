@@ -1,3 +1,5 @@
+const { kafka }= require("./client");
+
 const topicConfig = {
   topic: 'messages',
   numPartitions: 2,
