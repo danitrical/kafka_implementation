@@ -22,4 +22,10 @@ confluentinc/cp-kafka
 confluentinc/cp-kafka
 ```
 
+### Before Running
+```
+yarn install
+```
 Admin = To setup infrastructure like brokers, topics, partitions, producers, consumers etc.
+Producer = To Produce Messages to Kafka
+Consumer = To Consume Messages
