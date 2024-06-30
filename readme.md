@@ -28,6 +28,7 @@ docker compose up
 yarn install
 ```
 
+# Components Overview
 
 Admin = To setup infrastructure like brokers, topics, partitions, producers, consumers etc.
 Producer = To Produce Messages to Kafka
